@@ -49,18 +49,22 @@ Then open the URL printed in your terminal
 
 ## FOLDER STRUCTURE
 contacts-app/
-├── src/
-│   ├── component/
-│   │   └── Contact.jsx     # Main app component
-│   ├── App.jsx
-│   ├── index.css
-│   └── main.jsx
-├── public/
-├── package.json
-├── vite.config.js
-├── tailwind.config.js
-├── README.md
-└── ...
+├── public/                     # Static files
+├── src/                        # Source code
+│   ├── assets/                 # Images, icons, etc. (optional)
+│   ├── component/              # React components
+│   │   └── Contact.jsx         # Main app component
+│   ├── App.jsx                 # Root app wrapper
+│   ├── main.jsx                # React entry
+│   └── index.css               # Global/Tailwind styles
+│
+├── package.json                # Scripts & dependencies
+├── postcss.config.js           # PostCSS config (Tailwind)
+├── tailwind.config.js          # Tailwind config
+├── vite.config.js              # Vite config
+└── README.md                   # This file
+
+
 # Author
 Enyce Iriza
 Sydney, Australia
