@@ -47,7 +47,7 @@ npm run dev
 
 Then open the URL printed in your terminal 
 
-# FOLDER STRUCTURE
+## FOLDER STRUCTURE
 contacts-app/
 ├── src/
 │   ├── component/
