@@ -33,16 +33,16 @@ The app is deployed on **Vercel**, which automatically builds from the main bran
 
 # INSTALLATION AND SETUP
 To run this project locally:
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/<your-username>/contacts-app.git
 
-# 2. Navigate into the project folder
+ 2. Navigate into the project folder
 cd contacts-app
 
-# 3. Install dependencies
+ 3. Install dependencies
 npm install
 
-# 4. Start the development server
+ 4. Start the development server
 npm run dev
 
 Then open the URL printed in your terminal 
