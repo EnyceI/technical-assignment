@@ -56,7 +56,7 @@ To run this project locally:
    contacts-app/
    ├── public/                     # Static files
    ├── src/                        # Source code
-   │   ├── assets/                 # Images, icons, etc. (optional)
+   │   ├── assets/                 # Images, icons, etc. 
    │   ├── component/              # React components
    │   │   └── Contact.jsx         # Main app component
    │   ├── App.jsx                 # Root app wrapper
